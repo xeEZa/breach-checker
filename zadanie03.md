@@ -20,3 +20,4 @@ Untagged: breach-checker-frontend:latest
 PS C:\Users\Student_PL\cyberMWgr5\breach-checker> docker rmi breach-checker-frontend:v2
 Untagged: breach-checker-frontend:v2
 Deleted: sha256:30fbc04088e2182ead662bd50a5899d84ad1317ffceaa59f79aa95c519d4ead9
+
